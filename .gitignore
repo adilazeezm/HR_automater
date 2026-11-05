@@ -1,0 +1,7 @@
+.env
+*.env
+.DS_Store
+node_modules/
+# never commit real resumes or exported credentials
+*.pdf
+credentials*.json
