@@ -143,7 +143,7 @@ A Code node validates the JSON, clamps the score to 0–100, and sends the candi
 
 ## Author
 
-**[Your Name]**: [LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://your-site.com)
+**Adil Azees**: [LinkedIn](www.linkedin.com/in/adil-azeez) · 
 
 ## License
 
